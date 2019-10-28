@@ -1,0 +1,22 @@
+{
+  "name": "Demo",
+  "version": "0.1.0",
+  "summary": "A short description of Demo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1245485258@qq.com/Demo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1245485258@qq.com": "shaohuali@bestechnic.com"
+  },
+  "source": {
+    "git": "https://github.com/1245485258@qq.com/Demo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Demo/Classes/**/*"
+}
